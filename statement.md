@@ -1,4 +1,4 @@
-# Project Statement — Student Expense Manager
+# Project Statement —  Student Expense Manager
 
 ---
 
